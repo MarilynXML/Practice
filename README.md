@@ -2,5 +2,5 @@
 Practice of HTML/CSS/JS
 
 Band Demo
-http://marilynxml.github.io/Practice
+http://marilynxml.github.io/Practice/Band
 
